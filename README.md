@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hello! I am a passionate programmer analyst based in Chile, specialized in data analysis. I am driven by continuous learning and excellence in my field, always seeking new opportunities for professional growth. My goal is to participate in challenging projects that allow me to apply my programming and data analysis skills to generate valuable insights. I look forward to collaborating with dynamic teams and helping solve complex problems using data. We discuss how we can work together to create something amazing!
+## Hi there! 👋
+
+I'm a **Data Engineer** from Chile passionate about building scalable data pipelines 
+and transforming raw data into actionable insights.
+
+### 🛠️ Tech Stack
+- **Orchestration**: Airflow, Docker
+- **Transformation**: dbt, SQL, Python
+- **Cloud**: Google Cloud Platform (BigQuery, GCS)
+- **Databases**: PostgreSQL, MySQL
+
+### 🚀 What I Do
+I design and implement end-to-end data pipelines using modern tools and best practices. 
+Currently focused on medallion architectures (Bronze-Silver-Gold), dimensional modeling, 
+and data quality testing.
+
+### 📫 Let's Connect
+Open to collaborating on data engineering projects and learning from the community!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heberth-caripa)
 
 
 ## 🌐 Socials:
